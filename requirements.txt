@@ -1,0 +1,11 @@
+discord.py
+beautifulsoup4
+discord
+lxml
+urllib3
+requests
+asyncio
+datetime
+MechanicalSoup
+flask
+python-dotenv
