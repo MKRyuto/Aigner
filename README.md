@@ -1,6 +1,4 @@
-[![Build](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MKRyuto/Aigner/tree/master)
-
-[![Run on Repl.it](https://repl.it/badge/github/MKRyuto/Aigner)](https://repl.it/github/MKRyuto/Aigner)
+[![Build](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MKRyuto/Aigner/tree/master) [![Run on Repl.it](https://repl.it/badge/github/MKRyuto/Aigner)](https://repl.it/github/MKRyuto/Aigner)
 
 ## Aigner
 
@@ -30,7 +28,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python Aigner.py
+python main.py
 ```
 
 ## Contributing
